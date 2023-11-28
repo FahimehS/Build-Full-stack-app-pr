@@ -1,0 +1,23 @@
+{
+  "name": "randomideas",
+  "version": "1.0.0",
+  "description": "idea sharing app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahimehS/Build-Full-stack-app-pr.git"
+  },
+  "author": "Fahimeh/UdemyCoursePr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FahimehS/Build-Full-stack-app-pr/issues"
+  },
+  "homepage": "https://github.com/FahimehS/Build-Full-stack-app-pr#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
